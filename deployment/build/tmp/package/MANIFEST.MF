@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Bundle-Name: quizapp_mx_course_829e53256f7109531dca52ddf298a337940febff
+Bundle-SymbolicName: project
+Service-Component: OSGI-INF/component.xml
+
